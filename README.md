@@ -4,7 +4,7 @@
 
 I'm the IT Director at [**Score Spaces**](https://scorespaces.com), where I develop custom software solutions that help shape modern workspaces. With a deep understanding of **software engineering** and **financial management**, I’m passionate about solving complex problems and driving efficiency in the commercial furniture industry.
 
-### What I Work With 💻
+### What I Work With
 
 I specialize in a wide range of technologies to build impactful, efficient solutions:
 
