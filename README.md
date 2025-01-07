@@ -1,6 +1,6 @@
 # Hi, I'm Mayer Fried! 👋
 
-## Welcome to My GitHub Profile 🚀
+## Welcome to My GitHub Profile
 
 I'm the IT Director at [**Score Spaces**](https://scorespaces.com), where I develop custom software solutions that help shape modern workspaces. With a deep understanding of **software engineering** and **financial management**, I’m passionate about solving complex problems and driving efficiency in the commercial furniture industry.
 
@@ -26,7 +26,7 @@ I specialize in a wide range of technologies to build impactful, efficient solut
 ### Featured Project 🔥
 - **[Cardknox API Wrapper for Node.js](https://github.com/mfried40/cardknox-api-wrapper-node)**: An open-source Node.js wrapper for interacting with the Cardknox payment gateway.
 
-### About Me 🌱
+### About Me
 I love to stay ahead in the tech world by constantly learning and adopting new technologies. When I’m not coding, I’m exploring automation tools or trying out new ways to improve workflows at [**Score Spaces**](https://scorespaces.com).
 
 ### Let’s Connect 🤝
